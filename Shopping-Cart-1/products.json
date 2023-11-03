@@ -1,0 +1,43 @@
+[{
+    "id":1,
+    "name":"Nike ",
+    "price":200,
+    "image":"2.webp"
+    },
+    {
+        "id":2,
+        "name":"Nike ",
+        "price":200,
+        "image":"2.webp"
+        },{
+            "id":3,
+            "name":"Nike ",
+            "price":250,
+            "image":"2.webp"
+            },{
+                "id":4,
+                "name":"Nike ",
+                "price":200,
+                "image":"2.webp"
+                },{
+                    "id":5,
+                    "name":"Nike ",
+                    "price":200,
+                    "image":"2.webp"
+                    },{
+                        "id":6,
+                        "name":"Nike ",
+                        "price":200,
+                        "image":"2.webp"
+                        },{
+                            "id":7,
+                            "name":"Nike ",
+                            "price":200,
+                            "image":"2.webp"
+                            },{
+                                "id":8,
+                                "name":"Nike ",
+                                "price":200,
+                                "image":"2.webp"
+                                }
+]
